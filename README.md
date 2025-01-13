@@ -1,1 +1,4 @@
-Este proyecto es una prueba de Git y GitHub.
+Este proyecto es una prueba de **Git** y **GitHub**.
+* introduccion
+* descripción de git y github
+* ejemplos
