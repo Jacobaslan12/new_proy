@@ -8,6 +8,7 @@ Ecuación de Calor
 $$
 \dfrac{\partial T}{\partial t}-\alpha \nabla^{2} T=0
 $$
+
 Diferencias finitas:
 
 $$
